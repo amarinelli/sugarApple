@@ -26,7 +26,7 @@
 - Decide timeline
   Phase One Completion Project:
   - 6 week project tentative date ; April 27th
- 
+
 
 Project structure :
 
@@ -41,7 +41,7 @@ Project structure :
  - Blurb
  - Sign in with Slack button.
  - Submit button
- - General Area - Emoji Display
+ - General Area - Reaction Emoji
 
 - Create Test Team
  - Create an app.
@@ -50,7 +50,7 @@ Project structure :
 - Sign In with Slack :
  - API needed OAuth: https://api.slack.com/docs/sign-in-with-slack
 
--Submit Button 
+-Submit Button
  - Display Info - https://api.slack.com/methods/users.info
 
 
@@ -59,15 +59,26 @@ Project structure :
 
 
 - General Area - Emoji Display
- -Last ten used reactions 
+ -Last ten used reactions
  -Most used reactions in the past week.
 
 - Match coding lessons to pseudo-code
 
 #### Session 2
 
-- Build webpage.
+Download Atom
 
+Build webpage.
+- added index.html and CSS file into atom
+- edited old html site
+- created foundation/base starting point with "test.html"
 
+sketch out design of webpage:
+- Welcome to SugarApple
+- Want to find your most used reactji?
+- button - log into Slack
 
-
+pg 2 top right,  hello name and picture
+- these are your top 10 reactjis in the last week
+- shows 10
+- Nice! - rotating images
